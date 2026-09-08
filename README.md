@@ -1,1 +1,1 @@
-Run this script using windows task scheduler for a automated response to birthdays.
+Run this script using windows task scheduler for an automated response to birthdays.
