@@ -11,7 +11,7 @@ createCode = lambda date: f'{str(date)[5:7]}{str(date)[8:10]}'
 
 
 def load_data():
-    """Load and return the my_data stored in json file"""
+    """Load and return the data stored in json file"""
     with open(path_json, 'r') as file:
         return json.load(file)
 
