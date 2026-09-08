@@ -1,2 +1,0 @@
-# Ignore data file
-my_data/birthday.json
